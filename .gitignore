@@ -1,0 +1,15 @@
+exc/
+.score/
+.statedb/
+tbears.log
+start_vscode.sh
+.vscode/
+venv/
+SCORE.code-workspace
+.testscore
+.teststatedb
+.teststatedb/icon_dex/000003.log
+__pycache__
+config/testnet
+scripts/testnet
+releases/

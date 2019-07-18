@@ -1,0 +1,22 @@
+{
+    "jsonrpc": "2.0",
+    "method": "icx_sendTransaction",
+    "params": {
+        "version": "0x3",
+        "from": "hxe7af5fcfd8dfc67530a01a0e403882687528dfcb",
+        "value": "0x0",
+        "stepLimit": "0x1000000",
+        "nid": "0x3",
+        "nonce": "0x0",
+        "to": "xxx",
+        "dataType": "call",
+        "data": {
+            "method": "withdraw_operator_fees",
+            "params": {
+                "address" : "xxx",
+                "amount" : "xxx"
+            }
+        }
+    },
+    "id": 1
+}
